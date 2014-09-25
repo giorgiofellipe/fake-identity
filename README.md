@@ -86,8 +86,7 @@ Please note that, to run tests, you must clone the repository in git. Tests are 
 
 ## To do
 
-- Add configuration options
-    Options:
+- Add configuration options:
     - Age range
     - Attributes alias
 
